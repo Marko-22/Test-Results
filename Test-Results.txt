@@ -3,3 +3,4 @@ Kada na napišemo "5+" na izlazu ne piše ništa a trebalo bi "ERROR" i
 kada se deli sa nulom trebalo bi da takođe pise "ERROR" u mesto "Infinity"
 jer deljenje sa nulom nije dozvoljeno. 
 Napisan je i jedinični test koji je pokazao da je program ispravan.
+Test je ubačen u program i počinje od 188. linije.
